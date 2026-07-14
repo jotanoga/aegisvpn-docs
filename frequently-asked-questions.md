@@ -56,7 +56,7 @@ For more information, see the [Getting Started Guide](getting-started-guide.md#c
 
 ---
 
-## I forgot my password.
+## I forgot my password
 
 Select **Forgot Password** on the login screen and follow the instructions to reset your password.
 
