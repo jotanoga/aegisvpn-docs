@@ -106,6 +106,12 @@ No software, services or infrastructure described in this repository actually ex
 
 ---
 
+## Future Work
+
+This documentation will continue evolving following Docs-as-Code best practices.
+
+---
+
 ## Author
 
 José Ángel Nogales
