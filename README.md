@@ -110,6 +110,7 @@ No software, services or infrastructure described in this repository actually ex
 
 This documentation will continue evolving following Docs-as-Code best practices.
 
+
 ---
 
 ## Author
@@ -126,3 +127,9 @@ https://github.com/jotanoga
 
 Website:
 https://www.iloctranslations.com
+
+
+----
+
+
+###### Project Status: Under active development
