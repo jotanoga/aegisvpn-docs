@@ -126,3 +126,7 @@ https://github.com/jotanoga
 
 Website:
 https://www.iloctranslations.com
+
+----
+
+###### Documentation maintained using Git and Docs-as-Code principles.
