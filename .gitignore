@@ -1,0 +1,13 @@
+# Obsidian
+.obsidian/
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system
+.DS_Store
+Thumbs.db
